@@ -1,1 +1,2 @@
-date & Time
+df -gt
+echo date & Time
